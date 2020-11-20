@@ -20,8 +20,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&langs_count=8&layout=compact&hide_border=true)
 
 Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently, I'm working in startup 🙍🏽‍♂️ and also a Freelancer 👨🏽‍💻  
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+ 
+<div align="right" style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>
 
   
 **Talking about Personal Stuffs:**
