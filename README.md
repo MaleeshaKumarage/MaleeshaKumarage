@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Maleesha!](https://MaleeshaKumarage.github.io)
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 <!--
 **MaleeshaKumarage/MaleeshaKumarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
