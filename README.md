@@ -19,7 +19,9 @@
 
 Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently, I'm working in startup 🙍🏽‍♂️ and also a Freelancer 👨🏽‍💻  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <br/>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&langs_count=8)
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as **Software Engineer @ Vevro PVT Limited** ...
