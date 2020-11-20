@@ -15,7 +15,9 @@
 
 <br />
 <br/>
+ <br/>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&langs_count=8)
 
 Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently, I'm working in startup 🙍🏽‍♂️ and also a Freelancer 👨🏽‍💻  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -30,9 +32,7 @@ Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently,
 - 💅 Ping me about  **development**, **design thinking**,**.Net Core**,**Entity Framework**,**Identity Framework**
 - 📫 How to reach me: maleesha.msk@gmail.com or maleesha@mozilla.lk;
 <br/>
- <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&langs_count=8)
-<br/>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
