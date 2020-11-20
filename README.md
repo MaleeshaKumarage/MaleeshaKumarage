@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Maleesha!](https://MaleeshaKumarage.github.io)
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+![](https://komarev.com/ghpvc/?username=MaleeshaKumarage)
 
 <br/>
 
