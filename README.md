@@ -30,7 +30,7 @@ Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently,
 - 💅 Ping me about  **development**, **design thinking**,**.Net Core**,**Entity Framework**,**Identity Framework**
 - 📫 How to reach me: maleesha.msk@gmail.com or maleesha@mozilla.lk;
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaKumarage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 **Languages and Tools:**  
 
