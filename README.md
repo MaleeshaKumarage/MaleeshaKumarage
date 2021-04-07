@@ -29,7 +29,7 @@ Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently,
 - ⚙️ I use daily: `.cs`,`.cshtml`, `.js`, `.html`, `.css`
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💅 Ping me about  **development**, **design thinking**,**.Net Core**,**Entity Framework**,**Identity Framework**
-- 📫 How to reach me: maleesha.msk@gmail.com or maleesha@mozilla.lk;
+- 📫 How to reach me: maleesha.msk@gmail.com or mkumarage@mitrai.com;
 <br/>
 
 **Languages and Tools:**  
