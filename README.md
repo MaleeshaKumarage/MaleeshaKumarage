@@ -25,7 +25,7 @@ Hi, I'm Maleesha Kumarage, a Full Stack Developer 🚀 from Srilanka, currently,
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as **Software Engineer @ Vevro PVT Limited** ...
+- 🔭 I’m currently working as **Software Engineer @ Mitra Innovation** ...
 - ⚙️ I use daily: `.cs`,`.cshtml`, `.js`, `.html`, `.css`
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💅 Ping me about  **development**, **design thinking**,**.Net Core**,**Entity Framework**,**Identity Framework**
